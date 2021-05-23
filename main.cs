@@ -32,8 +32,7 @@ namespace TutorialBot
        .AddSingleton(_commands)
        .BuildServiceProvider();
        
-       string token = "ODQ1ODUzNTAzMTU0NjgzOTU0.YKnAdg.n8xFJbDKMjm5VkTKUxoaydLCv2A";
-    
+       string token = "super-secret-token-xd"
     _client.log += _client_Log;
     
           await RegisterCommandsAsync();
