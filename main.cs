@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Discord.Commands;
-using Discord.Websocket
+using Discord.Websocket;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace TutorialBot
